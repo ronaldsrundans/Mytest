@@ -1,6 +1,5 @@
 #include<stdio.h>
-///Hello World!
-///Hello Ubuntu!
+///No comment!
 int main(){
 printf("hello world");
 return 0;
